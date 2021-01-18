@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.menubackColor {
+  background-color: white;
+  margin-top: 19px;
+}
+
+.tab1margin {
+  margin-left: 330px !important;
+}
+
+.imgclass {
+  padding: 1%;
+  margin-top: -8%;
+}
+.tabclass {
+  margin-top: 19px;
+}
+.panelTabcls {
+  margin-top: -6%;
+}
+.aboutheader {
+  margin-left: 26% !important;
+}
+.insTextcls {
+  margin-left: 18%;
+  font-weight: bold;
+  font-style: oblique;
+  margin-top: -2%;
+}
+.formCls {
+  width: 55% !important;
+  background-color: skyblue !important;
+  margin-left: 17% !important ;
+}
+
+.errordivCls {
+  margin-top: 2px;
+  font-family: auto;
+  color: red;
+  font-weight: 600;
+  margin-left: 1px;
+}
+
+.infoTextCls {
+  font-weight: bold;
+  color: darkgreen;
+}
+
+.lnameerrordivCls {
+  margin-top: 63px;
+  font-family: auto;
+  color: red;
+  font-weight: 600;
+  margin-left: -341px;
+}
+
+.sidemenucls {
+  margin-top: 61px !important;
+}
+

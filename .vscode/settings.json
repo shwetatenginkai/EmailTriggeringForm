@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d31ac230-eeb5-407e-a303-bdd516659437/resourceGroups/nodetesting/providers/Microsoft.Web/sites/testingforexa",
+    "appService.deploySubpath": "."
+}
